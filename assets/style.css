@@ -1,0 +1,38 @@
+body {
+  background-color: #fff8d9;
+}
+
+header {
+  display: inline;
+}
+
+nav {
+  background-color: #eba83a;
+  padding: 5px;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  font-size: 18px;
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  font-weight: bold;
+}
+
+.top-wrapper {
+  background: url(./image/banner.jpg) no-repeat center top;
+  text-align: center;
+  width: 100%;
+}
+
+.banner {
+  padding: 100px 1px;
+  margin: 0 auto;
+}
