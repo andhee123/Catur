@@ -1,5 +1,6 @@
 body {
   background-color: #fff8d9;
+  margin: 0;
 }
 
 header {
@@ -8,6 +9,7 @@ header {
 
 nav {
   background-color: #eba83a;
+  padding: 14px;
 }
 
 nav li {
@@ -26,9 +28,8 @@ nav a:hover {
 }
 
 .top-wrapper {
-  background: url(./image/banner.jpg) no-repeat center top;
+  background:url(./image/banner.jpg) no-repeat center top;
   text-align: center;
-  width: 100%;
 }
 
 .banner {
