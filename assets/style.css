@@ -33,8 +33,8 @@ nav a:hover {
 }
 
 .top-wrapper {
-  background-image:url(./image/banner.jpg);
-  background-repeat:  no-repeat;
+  background-image: url(./image/banner.jpg);
+  background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
 }
