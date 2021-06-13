@@ -9,7 +9,7 @@ header {
 
 nav {
   background-color: #eba83a;
-  padding: 14px;
+  padding: 12px;
 }
 
 nav li {
@@ -28,11 +28,13 @@ nav a:hover {
 }
 
 .top-wrapper {
-  background:url(./image/banner.jpg) no-repeat center top;
+  background-image:url(./image/banner.jpg);
+  background-repeat:  no-repeat;
+  background-size: cover;
   text-align: center;
 }
 
 .banner {
-  padding: 100px 1px;
+  padding: 190px 0;
   margin: 0 auto;
 }
