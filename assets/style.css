@@ -1,6 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: #fff8d9;
-  margin: 0;
 }
 
 header {
@@ -42,4 +47,27 @@ nav a:hover {
 .banner {
   padding: 200px 0;
   margin: 0 auto;
+}
+
+.container {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.dropdown {
+  width: 20%;
+  background-color: darkcyan;
+  float: left;
+}
+
+.content {
+  width: 55%;
+  float: left;
+  background-color: forestgreen;
+}
+
+.aside {
+  width: 25%;
+  background-color: gold;
+  float: left;
 }
