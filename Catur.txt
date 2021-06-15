@@ -1,0 +1,48 @@
+1. Pengertian catur
+  Catur (bahasa Inggris: chess) adalah permainan papan strategi dua orang yang dimainkan pada sebuah papan kotak-kotak yang terdiri dari 64 kotak, yang disusun dalam petak 8×8, yang terbagi sama rata (masing-masing 32 kotak) dalam kelompok warna putih dan hitam.[1] Permainan ini dimainkan oleh jutaan orang di seluruh dunia. Catur diyakini berasal dari permainan India, chaturanga (yang menjadi asal nama catur), sekitar abad ke-7. Chaturanga juga diperkirakan merupakan nenek moyang dari permainan strategi serupa yang berasal dari Dunia Timur, seperti xiangqi (catur Cina), janggi (catur Korea), dan shogi (catur Jepang). Catur mencapai Eropa pada abad ke-9, saat terjadi penaklukan Hispania oleh Umayyah. Buah-buah catur tersebut diperkirakan mendapat bentuknya yang dikenal saat ini pada akhir abad ke-15 di Spanyol, sedangkan aturan catur modern distandardisasi pada abad ke-19.
+
+2. Sejarah
+  Catur pada permulaannya dimainkan di India bagian barat, dikenal dengan nama Chaturanga.[5] Chaturangga merupakan kata bahasa Sanskrit yang berarti "4 pasukan perang"[6] , merujuk pada 4 pasukan perang yang digunakan oleh India saat itu, kereta perang, tentara bergajah, tentara berkuda dan infantri. Permainan chaturangga merupakan miniatur dari kondisi perang yang sesungguhnya. Dua pasukan perang saling berhadap-hadapan, daerah netral ada diantara keduanya, pasukan infantri di garis depan, pasukan berkendaraan di garis belakang, dengan pimpinan berada di tengah. Buah catur permainan Chaturangga terdiri dari Raja, Menteri, Pasukan Bergajah, Pasukan Berkuda, Kereta Perang (sekarang menjadi Benteng), dan Pasukan Infantri (sekarang menjadi Bidak).[6]
+Pada abad keenam masehi, hubungan perdagangan dan budaya antara India dengan Iran mengakibatkan permainan ini tersebar ke Iran.[6] Istilah-istilah India dalam permainan ini diterjemahkan kedalam bahasa Iran, sebagai contoh, "Raja" diterjemahkan menjadi "Shah" (berarti Raja, dalam bahasa Persia).Tahun 641, Iran dikuasai oleh orang-orang Arab.[5] Akibatnya, permainan ini tersebar ke Arab. Dari Arab, permainan ini tersebar ke daratan Eropa pada abad ke-11 melalui tiga jalan, yaitu ke Spanyol via Afrika Utara, ke Italia via Laut Tengah, dan ke Balkan via Turki. Permainan ini mengalami perkembangan di Eropa, beberapa peraturan baru diujicobakan untuk meningkatkan kecepatan permainan dan kemungkinan strategi jangka-panjang[6] Hingga akhirnya pada sekitar tahun 1600, permainan catur berkembang menjadi catur modern yang sekarang.Catur hasil perkembangan di Eropa dibawa lagi ke Asia melalui penjelajah Eropa. Orang Inggris dan Belanda membawa catur eropa ke Malaya dan Jawa, sementara itu versi perkembangan asli dari chaturangga juga dimainkan disana.[6
+
+3. peraturan
+  Peraturan catur diterbitkan oleh FIDE (Fédération Internationale des Échecs, bahasa Indonesia: Federasi Catur Dunia), badan yang bertanggung jawab dalam membuat dan merevisi aturan catur secara internasional, yang dipublikasi dalam suatu Buku Pegangan.[7] Aturan yang diterbitkan oleh badan pengaturan nasional, organisasi catur yang tidak terafiliasi, penerbit komersial, dll. mungkin berbeda dengan aturan yang dikeluarkan oleh FIDE. Aturan FIDE yang paling baru direvisi pada 2018.
+
+  a. Persiapan
+  Buah catur terdiri dari dua set berwarna hitam dan putih. Satu set terdiri dari 16 buah, dan buah-buah tersebut, diurutkan dari yang terpenting, terdiri dari satu raja, satu menteri, dua gajah, dua kuda, dua benteng, dan delapan bidak. Bidak-bidak tersebut disusun seperti yang ditunjukkan oleh gambar di samping. Satu buah catur hanya bisa menempati satu petak. Permainan dilangsungkan di atas papan permainan berpetak dengan ukuran 8 baris (disebut juga ranks, ditandai dengan angka 1-8, diurutkan dari terbawah menurut sisi buah putih) dan 8 kolom (disebut juga files, ditandai dengan huruf a-h, diurutkan dari paling kiri menurut sisi buah putih) berwarna hitam dan putih (atau terang dan gelap) yang berselang-seling. Khusus bagi buah menteri, menteri putih diletakkan di petak putih (biasanya di petak D1) dan menteri hitam di petak hitam (biasanya di petak D8). Raja diletakkan berdampingan dan berada di samping menteri (buah putih di e1 dan hitam di e8).
+  
+  b. Gerakan
+  Setiap buah catur memiliki gerakan masing-masing. Berikut merupakan aturan gerak dari buah-buah catur. Perlu diingat bahwa hampir semua jenis buah catur, kecuali kuda, tidak boleh melompati buah lain, baik milik pemain maupun milik lawan.
+
+  c. Rokade
+  Rokade (bahasa Inggris: castling) merupakan gerakan khusus dalam catur di mana raja bergerak dua petak secara horizontal menuju benteng di baris pertamanya, kemudian meletakkan benteng pada petak di belakang jalur yang dilalui raja. Kedua benteng dapat digunakan untuk melakukan gerakan ini.
+  Rokade hanya bisa dilakukan jika memenuhi semua persyaratan berikut:[8]
+
+  Buah raja dan benteng yang akan terlibat harus tidak pernah bergerak sebelumnya;
+  Tidak ada buah lain yang menghalang di antara raja dan benteng;
+  Raja tidak sedang disekak atau tidak akan berpindah ke petak yang membuatnya disekak, ataupun petak-petak yang dilalui raja tidak sedang dalam keadaan tidak aman oleh buah catur lawan.
+  Rokade tetap boleh dilakukan (meskipun kadang ada pertandingan tertentu yang melarang) jika:
+
+  Buah benteng yang terlibat rokade sedang dalam keadaan tidak aman atau akan diserang;
+  Jalur yang dilalui benteng sedang diserang
+
+  d. en Passant
+  Ketika pion bergerak dua petak maju dan ada pion lawan yang berada satu petak persis di samping pion tersebut, maka pion lawan dapat memakan dan menempati petak yang baru saja dilalui pion tersebut, seolah-olah pion yang dimakan hanya bergerak satu petak. Gerakan ini disebut en passant. Namun, gerakan ini hanya dapat dilakukan sesaat setelah melakukan langkah pertama pion untuk maju dua petak, atau hak lawan untuk melakukan gerakan en passant ini menjadi hilang.
+
+  e. Promosi
+  Ketika pion telah maju hingga menempati baris paling akhir (di daerah lawan), bersamaan dengan gerakan maju tersebut, pion tersebut dipromosikan dan harus ditukar dengan buah lain tertentu (seperti menteri, benteng, gajah, dan kuda) berdasarkan keinginan pemain dengan warna yang sama. Pada umumnya, pion akan dipromosikan menjadi menteri. Tidak ada batasan untuk pemilihan jenis buah catur yang menjadi hasil promosi suatu pion, sehingga jumlah dari buah catur berjenis tertentu setelah terjadi promosi dapat berjumlah lebih dari seharusnya. Contohnya, pion dapat dipromosikan ke menteri, meskipun masih ada menteri di atas papan, sehingga permainan saat itu memiliki dua menteri. Oleh karena itu, peserta dapat menyimpan buah catur lebih banyak daripada yang diperlukan di awal permainan. (Mis. dua menteri, tiga benteng, dsb.)
+
+  f. sekak
+  Ketika raja sedang diserang oleh satu atau lebih bidak lawan, keadaan ini disebut dengan sekak. Pemain yang rajanya disekak harus menggerakkan rajanya, dan hanya boleh melakukan gerakan tersebut saat itu, supaya tidak dalam keadaan sekak. Hal ini dapat dilakukan dengan memakan buah lawan yang menyerang, menutup serangan lawan dengan menempatkan sebuah buah di antaranya (apabila yang menyerang menteri, benteng, atau gajah, dan ada petak kosong di antara raja dan buah lawan), atau memindahkan raja ke petak yang tidak sedang diserang. Gerakan Rokade tidak dapat digunakan untuk menghindari sekak.
+
+  Tujuan permainan adalah mencapai posisi sekakmat. Sekakmat terjadi apabila buah raja lawan terancam dan tidak ada lagi cara untuk bisa menyelamatkan diri dari serangan. Gerakan tidak boleh dilakukan jika perpindahan membuat raja sendiri langsung tersekak. Seorang pemain boleh saja meneriakkan sekak bila menempatkan raja lawan dalam bahaya, tetapi hal tersebut bukanlah keharusan dan jarang dilakukan di pertandingan resmi.
+  
+  g. Akhir permainan
+    g1. Menang
+    Untuk skenario ini, pihak yang menang biasanya mendapatkan nilai 1 dan yang kalah mendapat 0. Permainan dapat berakhir dengan kemenangan oleh salah satu pemain dengan cara-cara berikut.
+
+    Sekakmat: Pemain yang memiliki giliran sedang dalam keadaan sekak dan tidak memiliki cara apa pun yang untuk meloloskan diri dari keadaan itu.
+    Pengunduran diri: Salah satu pemain dapat mengundurkan diri dan mengakui kemenangan lawan.[9] Di dalam pertandingan besar, terus bermain tanpa adanya harapan untuk menang dianggap sebagai etiket yang buruk, sehingga permainan kelas atas jarang berakhir dengan sekakmat.
+    Menang tepat waktu: Dalam permainan menggunakan kontrol waktu, pemain memenangkan permainan tersebut jika pemain lawan kehabisan waktu, meskipun lawan memiliki posisi yang lebih menguntungkan. Namun, hal tersebut hanya dapat terjadi jika pemain itu memiliki kemungkinan teoretis untuk menyekakmat lawannya.
+
+    g2
