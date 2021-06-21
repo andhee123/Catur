@@ -1,3 +1,2 @@
-<!-- graph -->
-alias graph="git log --all --decorate --oneline --graph"
+# Submission Dicoding
 Repo ini adalah Tugas Submisions dicoding
